@@ -1,21 +1,30 @@
-# A Simple Security Reference List
+# ::A Simple Security Resources List:: #
 
-## Exploits
+## [Exploits] ##
 
-## Vulnerability
+## [Vulnerability] ##
 
-## Malware Analysis
+## [Malware Analysis] ##
 
-## Reverse Engineering
+## [Reverse Engineering] ##
 
-## Digital Forensics
+## [Digital Forensics] ##
 
-## Penetration Testing
+## [Penetration Testing] ##
 
-## Mobile Security
+## [Mobile Security] ##
 
-## Social Engineering
+## [Social Engineering] ##
 
-## Threat Intelligence
+## [Cyber Threat Intelligence] ##
 
-## Information Sharing
+> #### TAXII - Trusted Automated eXchange of Indicator Information ####
+> TAXII™ defines a set of services and message exchanges that, when implemented,
+> enable sharing of actionable cyber threat information across organization and
+> product/service boundaries.
+
+* [Website](http://taxii.mitre.org/)
+* [Documentation](https://taxiiproject.github.io/)
+* [Repositories](https://github.com/TAXIIProject/)
+
+## [Open Security Courses/Trainings] ##
