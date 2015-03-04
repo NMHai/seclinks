@@ -39,4 +39,27 @@
 * [Documentation](https://stixproject.github.io/)
 * [Repositories](https://github.com/STIXProject/)
 
+> #### CybOX - Cyber Observable eXpression ####
+> ::A Structured Language for Cyber Observables::
+>
+> CybOX™ International in scope and free for public use, CybOX is a standardized
+> schema for the specification, capture, characterization, and communication of
+> events or stateful properties that are observable in the operational domain.
+
+* [Website](https://cybox.mitre.org/)
+* [Documentation](https://cyboxproject.github.io/)
+* [Repositories](https://github.com/CybOXProject/)
+
+> #### MAEC - Malware Attribute Enumeration and Characterization ####
+> ::A Structured Language for Attribute-Based Malware Characterization::
+>
+> MAEC™ International in scope and free for public use, MAEC is a standardized
+> language for encoding and communicating high-fidelity information about
+> malware based upon attributes such as behaviors, artifacts, and attack
+> patterns.
+
+* [Website](https://maec.mitre.org/)
+* [Documentation](https://maecproject.github.io/)
+* [Repositories](https://github.com/MAECProject/)
+
 ## [Open Security Courses/Trainings] ##
