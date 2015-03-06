@@ -172,7 +172,7 @@
 
 ## [Reverse Engineering] ##
 
-* TBD.
+* TBD
 
 #### Toolkits ####
 > * [GNU GDB](https://www.gnu.org/software/gdb/)
