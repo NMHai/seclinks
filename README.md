@@ -142,6 +142,7 @@
 >
 > ###### Blacklists ######
 > > * [SPAMHAUS](http://www.spamhaus.org/)
+> > * [PhishTank](https://www.phishtank.com/)
 > > * [Malware Domain List](http://www.malwaredomainlist.com/)
 > > * [DNS-BH – Malware Domain Blocklist](http://www.malwaredomains.com/)
 > > * [MalwareBlacklist](http://www.malwareblacklist.com/)
