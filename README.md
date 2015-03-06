@@ -1,5 +1,7 @@
 # ::A Simple Security Resources List:: #
 
+---------------------------------------
+
 ## [Exploits, Shellcodes and Vulnerabilities] ##
 
 > #### NVD - National Vulnerability Database ####
@@ -86,38 +88,149 @@
 * [Website](http://exploitpack.com/)
 
 > #### Shellcode Resource Links ####
->
+
 * [Website](http://www.projectshellcode.com/?q=node/8)
+
+---------------------------------------
 
 ## [Malware Analysis] ##
 
-* TBD.
+#### REMnux: A Linux Toolkit for Reverse-Engineering and Analyzing Malware ####
+>
+> ###### Introduction ######
+> > REMnux™ is a free Linux toolkit for assisting malware analysts with
+> > reverse-engineering malicious software. It strives to make it easier for
+> > forensic investigators and incident responders to start using the variety of
+> > freely-available tools that can examine malware, yet might be difficult to
+> > locate or set up.
+> > * [Website](https://remnux.org/)
+>
+> ###### Documentation ######
+> > REMnux Documentation
+> > * [Link](https://remnux.org/docs/)
+>
+> ###### Usages and Cheat Sheets ######
+> > REMnux Usage Tips for Malware Analysis on Linux
+> > * [Link](https://zeltser.com/remnux-malware-analysis-tips/)
+> > Reverse-Engineering Malware Cheat Sheet
+> > * [Link](https://zeltser.com/reverse-malware-cheat-sheet/)
+>
 
+> #### Anti-Virus/Sandbox ####
+
+* [Virus Total](https://www.virustotal.com/)
+* [ThreatExpert](http://www.threatexpert.com/)
+* [Anubis](https://anubis.iseclab.org/)
+* [Malwr](https://malwr.com/)
+* [AVCaesar](https://avcaesar.malware.lu/)
+
+> #### Specimens ####
+
+* [Contagio](http://contagiodump.blogspot.com/)
+* [Contagio Mobile](http://contagiominidump.blogspot.tw/)
+* [CLEAN MX realtime database](http://support.clean-mx.de/clean-mx/login.php)
+* [Malekal's forum](http://malwaredb.malekal.com/)
+* [MALWERK](http://dasmalwerk.eu/)
+* [theZoo aka Malware DB](https://ytisf.github.io/theZoo/)
+* [MalShare](http://www.malshare.com/)
+* [VirusSign](http://www.virussign.com/downloads.html)
+* [VirusShare](http://virusshare.com/)
+* [VXVault](http://vxvault.siri-urz.net/)
+* [ViruSign](http://www.virusign.com/)
+* [malware.lu](https://avcaesar.malware.lu/)
+* [Open Malware](http://oc.gtisc.gatech.edu:8080/)
+* [INSIDE YOUR BOTNET](http://www.exposedbotnets.com/)
+* [Nothink](http://www.nothink.org/honeypots.php)
+
+> #### Blacklists ####
+
+* [SPAMHAUS](http://www.spamhaus.org/)
+* [Malware Domain List](http://www.malwaredomainlist.com/)
+* [DNS-BH – Malware Domain Blocklist](http://www.malwaredomains.com/)
+* [MalwareBlacklist](http://www.malwareblacklist.com/)
+* [Malc0de](http://malc0de.com/database/)
+* [ZueS Tracker](https://zeustracker.abuse.ch/)
+* [Feodo Tracker](https://feodotracker.abuse.ch/)
+* [Cybercrime Tracker](http://cybercrime-tracker.net/)
+* [hpHosts](http://hosts-file.net/)
+* [urlQuery](http://urlquery.net/)
+* [ThreatLog](http://www.threatlog.com/)
+* [SCUMWARE](http://www.scumware.org/)
+
+> #### Toolkits ####
+
+* [Malware Analyzer](http://www.malware-analyzer.com/)
+
+> #### References ####
+
+* [Open Malware](http://www.offensivecomputing.net/)
+* [Shadow Server](https://www.shadowserver.org/)
+* [Team Cymru](https://www.team-cymru.org/)
+* [Lenny Zeltser](https://zeltser.com/)
+* [MalwareMustDie](http://malwaremustdie.org/)
+* [APTnotes](https://github.com/kbandla/APTnotes)
+
+> #### Forums ####
+
+* [KernelMode.info](http://www.kernelmode.info/forum/)
+
+---------------------------------------
 
 ## [Reverse Engineering] ##
 
 * TBD.
 
+> #### Toolkits ####
+
+* [GNU GDB](https://www.gnu.org/software/gdb/)
+* [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
+* [IDA](https://www.hex-rays.com/index.shtml)
+
+> #### References ####
+
+> #### Forums ####
+
+* [Tuts4You](https://tuts4you.com/)
+* [看雪学院-pediy.com](http://www.pediy.com/)
+
+---------------------------------------
 
 ## [Digital Forensics] ##
 
 * TBD.
 
+---------------------------------------
 
 ## [Penetration Testing] ##
 
 * TBD.
 
+---------------------------------------
 
 ## [Mobile Security] ##
 
 * TBD.
 
+> #### Toolkits ####
+
+* [SecMobi Wiki](http://wiki.secmobi.com/)
+* [androguard](https://github.com/androguard)
+
+> #### Forums ####
+
+* [看雪移动学院](http://www.kanxue.com/)
+
+---------------------------------------
 
 ## [Social Engineering] ##
 
 * TBD.
 
+> #### Toolkits ####
+
+* [The Social-Engineer Toolkit (SET)](https://www.trustedsec.com/social-engineer-toolkit/)
+
+---------------------------------------
 
 ## [Cyber Threat Intelligence] ##
 
@@ -165,6 +278,7 @@
 * [Documentation](https://maecproject.github.io/)
 * [Repositories](https://github.com/MAECProject/)
 
+---------------------------------------
 
 ## [Open Security Courses/Trainings/Tutorials/Materials] ##
 
@@ -386,8 +500,4 @@
 * [Null Byte - WonderHowTo](http://null-byte.wonderhowto.com/how-to/)
 * [Tuts4You](https://tuts4you.com/download.php?list.19)
 * [samsclass.info](https://samsclass.info/)
-
-## [Security Toolkits] ##
-
-* TBD.
 
