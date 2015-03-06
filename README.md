@@ -117,46 +117,45 @@
 > > * [Link](https://zeltser.com/reverse-malware-cheat-sheet/)
 >
 
-
-> #### Anti-Virus/Sandbox ####
-> * [Virus Total](https://www.virustotal.com/)
-> * [ThreatExpert](http://www.threatexpert.com/)
-> * [Anubis](https://anubis.iseclab.org/)
-> * [Malwr](https://malwr.com/)
-> * [AVCaesar](https://avcaesar.malware.lu/)
-
-
-> #### Specimens ####
-> * [Contagio](http://contagiodump.blogspot.com/)
-> * [Contagio Mobile](http://contagiominidump.blogspot.tw/)
-> * [CLEAN MX realtime database](http://support.clean-mx.de/clean-mx/login.php)
-> * [Malekal's forum](http://malwaredb.malekal.com/)
-> * [MALWERK](http://dasmalwerk.eu/)
-> * [theZoo aka Malware DB](https://ytisf.github.io/theZoo/)
-> * [MalShare](http://www.malshare.com/)
-> * [VirusSign](http://www.virussign.com/downloads.html)
-> * [VirusShare](http://virusshare.com/)
-> * [VXVault](http://vxvault.siri-urz.net/)
-> * [ViruSign](http://www.virusign.com/)
-> * [malware.lu](https://avcaesar.malware.lu/)
-> * [Open Malware](http://oc.gtisc.gatech.edu:8080/)
-> * [INSIDE YOUR BOTNET](http://www.exposedbotnets.com/)
-> * [Nothink](http://www.nothink.org/honeypots.php)
-
-> #### Blacklists ####
-
-* [SPAMHAUS](http://www.spamhaus.org/)
-* [Malware Domain List](http://www.malwaredomainlist.com/)
-* [DNS-BH – Malware Domain Blocklist](http://www.malwaredomains.com/)
-* [MalwareBlacklist](http://www.malwareblacklist.com/)
-* [Malc0de](http://malc0de.com/database/)
-* [ZueS Tracker](https://zeustracker.abuse.ch/)
-* [Feodo Tracker](https://feodotracker.abuse.ch/)
-* [Cybercrime Tracker](http://cybercrime-tracker.net/)
-* [hpHosts](http://hosts-file.net/)
-* [urlQuery](http://urlquery.net/)
-* [ThreatLog](http://www.threatlog.com/)
-* [SCUMWARE](http://www.scumware.org/)
+#### Resources ####
+>
+> ###### Anti-Virus/Sandbox ######
+> > * [Virus Total](https://www.virustotal.com/)
+> > * [ThreatExpert](http://www.threatexpert.com/)
+> > * [Anubis](https://anubis.iseclab.org/)
+> > * [Malwr](https://malwr.com/)
+> > * [AVCaesar](https://avcaesar.malware.lu/)
+>
+> ###### Specimens ######
+> > * [Contagio](http://contagiodump.blogspot.com/)
+> > * [Contagio Mobile](http://contagiominidump.blogspot.tw/)
+> > * [CLEAN MX realtime database](http://support.clean-mx.de/clean-mx/login.php)
+> > * [Malekal's forum](http://malwaredb.malekal.com/)
+> > * [MALWERK](http://dasmalwerk.eu/)
+> > * [theZoo aka Malware DB](https://ytisf.github.io/theZoo/)
+> > * [MalShare](http://www.malshare.com/)
+> > * [VirusSign](http://www.virussign.com/downloads.html)
+> > * [VirusShare](http://virusshare.com/)
+> > * [VXVault](http://vxvault.siri-urz.net/)
+> > * [ViruSign](http://www.virusign.com/)
+> > * [malware.lu](https://avcaesar.malware.lu/)
+> > * [Open Malware](http://oc.gtisc.gatech.edu:8080/)
+> > * [INSIDE YOUR BOTNET](http://www.exposedbotnets.com/)
+> > * [Nothink](http://www.nothink.org/honeypots.php)
+>
+> ###### Blacklists ######
+> > * [SPAMHAUS](http://www.spamhaus.org/)
+> > * [Malware Domain List](http://www.malwaredomainlist.com/)
+> > * [DNS-BH – Malware Domain Blocklist](http://www.malwaredomains.com/)
+> > * [MalwareBlacklist](http://www.malwareblacklist.com/)
+> > * [Malc0de](http://malc0de.com/database/)
+> > * [ZueS Tracker](https://zeustracker.abuse.ch/)
+> > * [Feodo Tracker](https://feodotracker.abuse.ch/)
+> > * [Cybercrime Tracker](http://cybercrime-tracker.net/)
+> > * [hpHosts](http://hosts-file.net/)
+> > * [urlQuery](http://urlquery.net/)
+> > * [ThreatLog](http://www.threatlog.com/)
+> > * [SCUMWARE](http://www.scumware.org/)
 
 > #### Toolkits ####
 
