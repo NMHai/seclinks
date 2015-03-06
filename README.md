@@ -286,24 +286,6 @@
 
 ---------------------------------------
 
-## [Penetration Testing] ##
-
-* TBD
-
-#### Resources ####
->
-
-#### Toolkits ####
->
-
-#### References ####
->
-
-#### Forums ####
->
-
----------------------------------------
-
 ## [Mobile Security] ##
 
 * TBD
@@ -323,7 +305,7 @@
 
 ---------------------------------------
 
-## [Social Engineering] ##
+## [Penetration Testing] ##
 
 * TBD
 
@@ -331,7 +313,7 @@
 >
 
 #### Toolkits ####
-> * [The Social-Engineer Toolkit (SET)](https://www.trustedsec.com/social-engineer-toolkit/)
+>
 
 #### References ####
 >
@@ -341,7 +323,42 @@
 
 ---------------------------------------
 
-## [Cyberthreat Intelligence] ##
+## [Social Engineering] ##
+
+#### SET - The Social-Engineer Toolkit ####
+>
+> ###### Introduction ######
+> > The Social-Engineer Toolkit (SET) was created and written by the founder of
+> > TrustedSec. It is an open-source Python-driven tool aimed at penetration
+> > testing around Social-Engineering.
+> > * [Website](https://www.trustedsec.com/social-engineer-toolkit/)
+> > * [Documentation](http://www.social-engineer.org/framework/se-tools/computer-based/social-engineer-toolkit-set/)
+> > * [Manual](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf)
+> > * [Repositories](https://github.com/trustedsec/social-engineer-toolkit/)
+>
+> ###### Cheat Sheets snd Tutorials######
+> > * [Tutorials - 01](http://www.ehacking.net/2011/08/social-engineering-toolkit-tutorial.html)
+> > * [Tutorials - 02](http://resources.infosecinstitute.com/phishing-and-social-engineering-techniques-3-0/)
+
+#### BeEF - The Browser Exploitation Framework Project ####
+>
+
+#### Resources ####
+>
+
+#### Toolkits ####
+>
+
+#### References ####
+> * [Social Engineering - Security Through Education](http://www.social-engineer.org/)
+> * [InfoSec - Social Engineering Toolkits](http://resources.infosecinstitute.com/social-engineering-toolkits/)
+
+#### Forums ####
+>
+
+---------------------------------------
+
+## [Cyberthreat/Open Source Intelligence(OSINT)] ##
 
 #### TAXII - Trusted Automated eXchange of Indicator Information ####
 >
@@ -382,6 +399,9 @@
 > > * [Website](https://maec.mitre.org/)
 > > * [Documentation](https://maecproject.github.io/)
 > > * [Repositories](https://github.com/MAECProject/)
+
+#### Maltego ####
+>
 
 #### Resources ####
 > * [IOC Bucket](https://www.iocbucket.com/)
