@@ -94,6 +94,18 @@
 > > Reverse-Engineering Malware Cheat Sheet
 > > * [Cheat Sheet](https://zeltser.com/reverse-malware-cheat-sheet/)
 
+#### Yara - The pattern matching swiss knife for malware researchers ####
+>
+> ###### Introduction ######
+> > YARA is a tool aimed at (but not limited to) helping malware researchers to
+> > identify and classify malware samples.
+> > * [Website](https://plusvic.github.io/yara/)
+> > * [Documentation](http://yara.readthedocs.org/)
+> > * [Repositories](https://github.com/plusvic/yara)
+>
+> ###### Notable Yara related publications ######
+> > * [Resources](http://www.deependresearch.org/2013/02/yara-resources.html)
+
 #### Resources ####
 >
 > ###### Specimens ######
@@ -157,6 +169,9 @@
 ## [Reverse Engineering] ##
 
 * TBD
+
+#### Resources ####
+>
 
 #### Toolkits ####
 > * [GNU GDB](https://www.gnu.org/software/gdb/)
@@ -223,7 +238,7 @@
 > > * [Wireshark Study Guide Trace Files](http://www.wiresharkbook.com/studyguide.html)
 > > * [Publicly available PCAP files](http://www.netresec.com/?page=PcapFiles)
 > > * [Collection of Pcap files from malware analysis](http://contagiodump.blogspot.tw/2013/04/collection-of-pcap-files-from-malware.html)
-> > * [](http://panda.gtisc.gatech.edu/malrec/)
+> > * [PANDA Malrec](http://panda.gtisc.gatech.edu/malrec/)
 >
 > ###### Email Maessages ######
 > > * [Enron Email Dataset](https://www.cs.cmu.edu/~enron/)
@@ -275,15 +290,33 @@
 
 * TBD
 
+#### Resources ####
+>
+
+#### Toolkits ####
+>
+
+#### References ####
+>
+
+#### Forums ####
+>
+
 ---------------------------------------
 
 ## [Mobile Security] ##
 
 * TBD
 
+#### Resources ####
+>
+
 #### Toolkits ####
 > * [SecMobi Wiki](http://wiki.secmobi.com/)
 > * [androguard](https://github.com/androguard)
+
+#### References ####
+>
 
 #### Forums ####
 > * [看雪移动学院](http://www.kanxue.com/)
@@ -294,8 +327,17 @@
 
 * TBD
 
+#### Resources ####
+>
+
 #### Toolkits ####
 > * [The Social-Engineer Toolkit (SET)](https://www.trustedsec.com/social-engineer-toolkit/)
+
+#### References ####
+>
+
+#### Forums ####
+>
 
 ---------------------------------------
 
@@ -340,6 +382,18 @@
 > > * [Website](https://maec.mitre.org/)
 > > * [Documentation](https://maecproject.github.io/)
 > > * [Repositories](https://github.com/MAECProject/)
+
+#### Resources ####
+> * [IOC Bucket](https://www.iocbucket.com/)
+
+#### Toolkits ####
+>
+
+#### References ####
+> * [OpenIOC](http://www.openioc.org/)
+
+#### Forums ####
+>
 
 ---------------------------------------
 
@@ -518,7 +572,21 @@
 > * [Tuts4You](https://tuts4you.com/download.php?list.19)
 > * [samsclass.info](https://samsclass.info/)
 
+---------------------------------------
+
 ## [Open Security Tools Yard Archives] ##
 
 #### SecTools.Org: Top Network Security Tools ####
 > * [Website](http://sectools.org/)
+
+#### NirSoft ####
+> * [Website](http://www.nirsoft.net/)
+
+#### Windows Sysinternals ####
+> * [Website](https://technet.microsoft.com/en-us/sysinternals)
+> * [Forum](http://forum.sysinternals.com/)
+> * [Blog](http://blogs.technet.com/b/sysinternals/)
+> * [Tutorials](https://technet.microsoft.com/en-us/sysinternals/bb469930)
+
+#### R57 Shell | C99 Shell####
+> * [Website](http://www.r57shell.net/)
