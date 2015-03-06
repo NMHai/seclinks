@@ -104,17 +104,13 @@
 > > freely-available tools that can examine malware, yet might be difficult to
 > > locate or set up.
 > > * [Website](https://remnux.org/)
->
-> ###### Documentation ######
-> > REMnux Documentation
-> > * [Link](https://remnux.org/docs/)
+> > * [Documentation](https://remnux.org/docs/)
 >
 > ###### Usages and Cheat Sheets ######
 > > REMnux Usage Tips for Malware Analysis on Linux
-> > * [Link](https://zeltser.com/remnux-malware-analysis-tips/)
-> >
+> > * [Tips](https://zeltser.com/remnux-malware-analysis-tips/)ß
 > > Reverse-Engineering Malware Cheat Sheet
-> > * [Link](https://zeltser.com/reverse-malware-cheat-sheet/)
+> > * [Cheat Sheet](https://zeltser.com/reverse-malware-cheat-sheet/)
 >
 
 #### Resources ####
@@ -157,22 +153,19 @@
 > > * [ThreatLog](http://www.threatlog.com/)
 > > * [SCUMWARE](http://www.scumware.org/)
 
-> #### Toolkits ####
+#### Toolkits ####
+> * [Malware Analyzer](http://www.malware-analyzer.com/)
 
-* [Malware Analyzer](http://www.malware-analyzer.com/)
+#### References ####
+> * [Open Malware](http://www.offensivecomputing.net/)
+> * [Shadow Server](https://www.shadowserver.org/)
+> * [Team Cymru](https://www.team-cymru.org/)
+> * [Lenny Zeltser](https://zeltser.com/)
+> * [MalwareMustDie](http://malwaremustdie.org/)
+> * [APTnotes](https://github.com/kbandla/APTnotes)
 
-> #### References ####
-
-* [Open Malware](http://www.offensivecomputing.net/)
-* [Shadow Server](https://www.shadowserver.org/)
-* [Team Cymru](https://www.team-cymru.org/)
-* [Lenny Zeltser](https://zeltser.com/)
-* [MalwareMustDie](http://malwaremustdie.org/)
-* [APTnotes](https://github.com/kbandla/APTnotes)
-
-> #### Forums ####
-
-* [KernelMode.info](http://www.kernelmode.info/forum/)
+#### Forums ####
+> * [KernelMode.info](http://www.kernelmode.info/forum/)
 
 ---------------------------------------
 
@@ -181,7 +174,6 @@
 * TBD.
 
 > #### Toolkits ####
-
 * [GNU GDB](https://www.gnu.org/software/gdb/)
 * [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
 * [IDA](https://www.hex-rays.com/index.shtml)
@@ -189,7 +181,6 @@
 > #### References ####
 
 > #### Forums ####
-
 * [Tuts4You](https://tuts4you.com/)
 * [看雪学院-pediy.com](http://www.pediy.com/)
 
