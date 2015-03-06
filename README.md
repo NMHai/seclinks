@@ -108,7 +108,8 @@
 >
 > ###### Usages and Cheat Sheets ######
 > > REMnux Usage Tips for Malware Analysis on Linux
-> > * [Tips](https://zeltser.com/remnux-malware-analysis-tips/)ß
+> > * [Tips](https://zeltser.com/remnux-malware-analysis-tips/)
+> >
 > > Reverse-Engineering Malware Cheat Sheet
 > > * [Cheat Sheet](https://zeltser.com/reverse-malware-cheat-sheet/)
 >
@@ -173,16 +174,17 @@
 
 * TBD.
 
-> #### Toolkits ####
-* [GNU GDB](https://www.gnu.org/software/gdb/)
-* [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
-* [IDA](https://www.hex-rays.com/index.shtml)
+#### Toolkits ####
+> * [GNU GDB](https://www.gnu.org/software/gdb/)
+> * [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
+> * [IDA](https://www.hex-rays.com/index.shtml)
 
-> #### References ####
+#### References ####
+>
 
-> #### Forums ####
-* [Tuts4You](https://tuts4you.com/)
-* [看雪学院-pediy.com](http://www.pediy.com/)
+#### Forums ####
+> * [Tuts4You](https://tuts4you.com/)
+> * [看雪学院-pediy.com](http://www.pediy.com/)
 
 ---------------------------------------
 
