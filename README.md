@@ -112,35 +112,36 @@
 > ###### Usages and Cheat Sheets ######
 > > REMnux Usage Tips for Malware Analysis on Linux
 > > * [Link](https://zeltser.com/remnux-malware-analysis-tips/)
+> >
 > > Reverse-Engineering Malware Cheat Sheet
 > > * [Link](https://zeltser.com/reverse-malware-cheat-sheet/)
 >
 
-> #### Anti-Virus/Sandbox ####
 
-* [Virus Total](https://www.virustotal.com/)
-* [ThreatExpert](http://www.threatexpert.com/)
-* [Anubis](https://anubis.iseclab.org/)
-* [Malwr](https://malwr.com/)
-* [AVCaesar](https://avcaesar.malware.lu/)
+> #### Anti-Virus/Sandbox ####
+> * [Virus Total](https://www.virustotal.com/)
+> * [ThreatExpert](http://www.threatexpert.com/)
+> * [Anubis](https://anubis.iseclab.org/)
+> * [Malwr](https://malwr.com/)
+> * [AVCaesar](https://avcaesar.malware.lu/)
+
 
 > #### Specimens ####
-
-* [Contagio](http://contagiodump.blogspot.com/)
-* [Contagio Mobile](http://contagiominidump.blogspot.tw/)
-* [CLEAN MX realtime database](http://support.clean-mx.de/clean-mx/login.php)
-* [Malekal's forum](http://malwaredb.malekal.com/)
-* [MALWERK](http://dasmalwerk.eu/)
-* [theZoo aka Malware DB](https://ytisf.github.io/theZoo/)
-* [MalShare](http://www.malshare.com/)
-* [VirusSign](http://www.virussign.com/downloads.html)
-* [VirusShare](http://virusshare.com/)
-* [VXVault](http://vxvault.siri-urz.net/)
-* [ViruSign](http://www.virusign.com/)
-* [malware.lu](https://avcaesar.malware.lu/)
-* [Open Malware](http://oc.gtisc.gatech.edu:8080/)
-* [INSIDE YOUR BOTNET](http://www.exposedbotnets.com/)
-* [Nothink](http://www.nothink.org/honeypots.php)
+> * [Contagio](http://contagiodump.blogspot.com/)
+> * [Contagio Mobile](http://contagiominidump.blogspot.tw/)
+> * [CLEAN MX realtime database](http://support.clean-mx.de/clean-mx/login.php)
+> * [Malekal's forum](http://malwaredb.malekal.com/)
+> * [MALWERK](http://dasmalwerk.eu/)
+> * [theZoo aka Malware DB](https://ytisf.github.io/theZoo/)
+> * [MalShare](http://www.malshare.com/)
+> * [VirusSign](http://www.virussign.com/downloads.html)
+> * [VirusShare](http://virusshare.com/)
+> * [VXVault](http://vxvault.siri-urz.net/)
+> * [ViruSign](http://www.virusign.com/)
+> * [malware.lu](https://avcaesar.malware.lu/)
+> * [Open Malware](http://oc.gtisc.gatech.edu:8080/)
+> * [INSIDE YOUR BOTNET](http://www.exposedbotnets.com/)
+> * [Nothink](http://www.nothink.org/honeypots.php)
 
 > #### Blacklists ####
 
