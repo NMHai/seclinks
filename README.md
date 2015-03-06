@@ -172,7 +172,7 @@
 
 ---------------------------------------
 
-## [Digital Forensics and Incidents handling] ##
+## [Digital Forensics and Incident Response] ##
 
 #### SIFT - SANS Investigative Forensic Toolkit ####
 >
