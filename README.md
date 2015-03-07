@@ -211,9 +211,13 @@
 #### Toolkits ####
 > * [Collaborative RCE Tool Library](http://www.woodmann.com/collaborative/tools/index.php/Category:RCE_Tools)
 > * [Reverse Engineering Tools](http://www.woodmann.com/crackz/Tools.htm)
-> * [GNU GDB](https://www.gnu.org/software/gdb/)
 > * [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
+> * [GNU GDB](https://www.gnu.org/software/gdb/)
+> * [OllyDbg](http://www.ollydbg.de/)
+> * [WinDbg](http://www.windbg.org/)
+> * [ImmunityDbg](https://www.immunityinc.com/products/debugger/)
 > * [IDA](https://www.hex-rays.com/index.shtml)
+> * [Hopper](http://www.hopperapp.com/)
 > * [ExeTools](http://exetools.com/)
 
 #### References ####
@@ -349,7 +353,12 @@
 
 ## [Penetration Testing] ##
 
-* TBD
+#### Kali Linux ####
+>
+> #### Introduction ####
+> > * [Website]()
+> > * [Documentation]()
+> > * [Resources](http://kali4hackers.blogspot.com/)
 
 #### Resources ####
 >
@@ -358,9 +367,12 @@
 >
 
 #### References ####
->
+> [Hakipedia](http://hakipedia.com/)
+> [Phrack](http://phrack.org/)
+> [Pwnwiki.io](http://pwnwiki.io/)
 
 #### Forums ####
+> * [Hack Forums](http://www.hackforums.net/)
 > * [黑客防线](http://www.hacker.com.cn/)
 
 ---------------------------------------
@@ -398,9 +410,6 @@
 > ###### Tutorials######
 > > * [Tutorial - 01](http://resources.infosecinstitute.com/beef-part-1/)
 > > * [Tutorial - 02](http://resources.infosecinstitute.com/beef-part-2/)
-
-#### Resources ####
->
 
 #### Toolkits ####
 > * [10 Minute Mail](http://10minutemail.com/)
@@ -464,6 +473,9 @@
 
 #### Maltego ####
 >
+> ###### Introduction ######
+> > * [Website]()
+> > * [Documentation]()
 
 #### Resources ####
 > * [IOC Bucket](https://www.iocbucket.com/)
@@ -680,7 +692,7 @@
 > > The African forum of computer incident response teams
 > > * [Website](http://www.africacert.org/)
 
-#### Institute and Conference ####
+#### Institute/Conference ####
 >
 > ###### Blackhat ######
 > > * [Website](https://www.blackhat.com/)
@@ -697,7 +709,7 @@
 > ###### Infosec Institute ######
 > > * [Website](http://www.infosecinstitute.com/)
 
-#### R&D Teams and Predecessors ###
+#### R&D Team/Predecessor ###
 >
 > ###### Blackhat.life ######
 > > * [Webiste](http://blackhat.life/)
@@ -780,5 +792,3 @@
 #### R57 Shell | C99 Shell ####
 > * [Website](http://www.r57shell.net/)
 
-#### Hack Forums ####
-> * [Website](http://www.hackforums.net/)
