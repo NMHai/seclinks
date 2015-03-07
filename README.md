@@ -258,7 +258,7 @@
 > > * [SANS - DFIR Monterey 2015 Network Forensics Challenge Released](http://digital-forensics.sans.org/blog/2014/12/05/dfir-monterey-2015-network-forensics-challenge-released)
 >
 > ###### Miscellaneous ######
-> > * [Forensic corpora](http://www.forensicswiki.org/wiki/Forensic_corpora)
+> > * [Forensic corpora(http://www.forensicswiki.org/wiki/Forensic_corpora)
 > > * [GCK's Cybercrime and Cyberforensics-related URLs](http://www.garykessler.net/library/forensicsurl.html)
 
 #### Toolkits ####
@@ -337,11 +337,25 @@
 >
 > ###### Manual snd Tutorials######
 > > * [Manual](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf)
-> > * [Tutorials - 01](http://www.ehacking.net/2011/08/social-engineering-toolkit-tutorial.html)
-> > * [Tutorials - 02](http://resources.infosecinstitute.com/phishing-and-social-engineering-techniques-3-0/)
+> > * [Tutorial - 01](http://www.ehacking.net/2011/08/social-engineering-toolkit-tutorial.html)
+> > * [Tutorial - 02](http://resources.infosecinstitute.com/phishing-and-social-engineering-techniques-3-0/)
 
 #### BeEF - The Browser Exploitation Framework Project ####
 >
+> ###### Introduction ######
+> > BeEF is short for The Browser Exploitation Framework. It is a penetration
+> > testing tool that focuses on the web browser.
+> > Amid growing concerns about web-borne attacks against clients, including
+> > mobile clients, BeEF allows the professional penetration tester to assess
+> > the actual security posture of a target environment by using client-side
+> > attack vectors.
+> > * [Website](http://beefproject.com/)
+> > * [Documentation](https://github.com/beefproject/beef/wiki)
+> > * [Repositories](https://github.com/beefproject/beef)
+>
+> ###### Tutorials######
+> > * [Tutorial - 01](http://resources.infosecinstitute.com/beef-part-1/)
+> > * [Tutorial - 02](http://resources.infosecinstitute.com/beef-part-2/)
 
 #### Resources ####
 >
