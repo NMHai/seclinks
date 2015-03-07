@@ -333,10 +333,10 @@
 > > testing around Social-Engineering.
 > > * [Website](https://www.trustedsec.com/social-engineer-toolkit/)
 > > * [Documentation](http://www.social-engineer.org/framework/se-tools/computer-based/social-engineer-toolkit-set/)
-> > * [Manual](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf)
 > > * [Repositories](https://github.com/trustedsec/social-engineer-toolkit/)
 >
-> ###### Cheat Sheets snd Tutorials######
+> ###### Manual snd Tutorials######
+> > * [Manual](https://github.com/trustedsec/social-engineer-toolkit/blob/master/readme/User_Manual.pdf)
 > > * [Tutorials - 01](http://www.ehacking.net/2011/08/social-engineering-toolkit-tutorial.html)
 > > * [Tutorials - 02](http://resources.infosecinstitute.com/phishing-and-social-engineering-techniques-3-0/)
 
