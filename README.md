@@ -16,6 +16,16 @@
 > OSVDB's goal is to provide accurate, detailed, current, and unbiased technical
 > security information.
 > * [Website](http://osvdb.org/)
+>
+> ###### CVE Details ######
+> CVE Details provides an easy to use web interface to CVE vulnerability data.
+> * [Website](http://www.cvedetails.com/)
+>
+> ###### Full Disclosure Mailing List ######
+> A public, vendor-neutral forum for detailed discussion of vulnerabilities and
+> exploitation techniques, as well as tools, papers, news, and events of
+> interest to the community.
+> * [Website](http://seclists.org/fulldisclosure/)
 
 #### Exploits ####
 >
@@ -56,6 +66,9 @@
 > WooYun是一个位于厂商和安全研究者之间的安全问题反馈平台，在对安全问题进行反馈处理跟进的同时，
 > 为互联网安全研究者提供一个公益、学习、交流和研究的平台。
 > * [Website](http://www.wooyun.org/)
+>
+> ###### Intelligent Exploit ######
+> * [Website](http://www.intelligentexploit.com/)
 
 #### Shellcodes ####
 >
@@ -174,15 +187,18 @@
 >
 
 #### Toolkits ####
+> * [Collaborative RCE Tool Library](http://www.woodmann.com/collaborative/tools/index.php/Category:RCE_Tools)
+> * [Reverse Engineering Tools](http://www.woodmann.com/crackz/Tools.htm)
 > * [GNU GDB](https://www.gnu.org/software/gdb/)
 > * [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
 > * [IDA](https://www.hex-rays.com/index.shtml)
 
 #### References ####
->
+> * [Collaborative RCE Knowledge Library](http://www.woodmann.com/collaborative/knowledge/index.php/Category:RCE_Knowledge)
 
 #### Forums ####
 > * [Tuts4You](https://tuts4you.com/)
+> * [Woodmann](http://www.woodmann.com/)
 > * [看雪学院-pediy.com](http://www.pediy.com/)
 
 ---------------------------------------
@@ -270,6 +286,8 @@
 > * [List of digital forensics tools](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 > * [GFI - Top 20 Free Digital Forensic Investigation Tools for SysAdmins](http://www.gfi.com/blog/top-20-free-digital-forensic-investigation-tools-for-sysadmins/)
 > * [InfoSec - 21 Popular Computer Forensics Tools](http://resources.infosecinstitute.com/computer-forensics-tools/)
+> * [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/)
+> * [CERT - Linux Forensics Tools Repository](https://forensics.cert.org/)
 
 #### References ####
 > * [Forensics Wiki](http://www.forensicswiki.org/)
@@ -614,7 +632,35 @@
 
 ---------------------------------------
 
-## [Open Security Tools Yard Archives] ##
+## [Infosec. R&D Teams/Predecessors] ##
+
+#### Blackhat.life ####
+> * [Webiste](http://blackhat.life/)
+
+#### Irongeek.com ####
+> * [Website](http://www.irongeek.com/)
+
+#### SecDev.org ####
+> * [Website](http://www.secdev.org/)
+
+#### SOLDIERX.com ###
+> * [Website](https://www.soldierx.com/)
+
+#### SecurityXploded ####
+> * [Website](http://securityxploded.com/)
+
+#### OpenSecurityResearch.com ####
+> * [Website](http://opensecurityresearch.com/)
+
+---------------------------------------
+
+## [Open Security Tools/Articles/Resources Yard Archives] ##
+
+#### Blackhat ####
+> * [Website](https://www.blackhat.com/)
+
+#### DefCon ####
+> * [Website](https://www.defcon.org/)
 
 #### SecTools.Org: Top Network Security Tools ####
 > * [Website](http://sectools.org/)
@@ -622,11 +668,41 @@
 #### NirSoft ####
 > * [Website](http://www.nirsoft.net/)
 
+#### Probably the Best Free Security List in the World ####
+> * [Website](http://www.techsupportalert.com/content/probably-best-free-security-list-world.htm)
+
+#### GEGeek ####
+> * [Website](http://gegeek.com/)
+
+#### ToolWar ####
+> * [Website](http://www.toolwar.com/)
+
+#### CYBERPUNK ####
+> * [Webisite](http://n0where.net/)
+
+#### ToolsWatch ####
+> * [Website](http://www.toolswatch.org/)
+
+#### KITPLOIT ####
+> * [Website](http://www.kitploit.com/)
+
 #### Windows Sysinternals ####
 > * [Website](https://technet.microsoft.com/en-us/sysinternals)
 > * [Forum](http://forum.sysinternals.com/)
 > * [Blog](http://blogs.technet.com/b/sysinternals/)
 > * [Tutorials](https://technet.microsoft.com/en-us/sysinternals/bb469930)
+
+#### nothunk.org - Utilities ####
+> * [Website](http://www.nothink.org/utilities.php)
+
+#### SOFTPEDIA ####
+> * [Website](http://www.softpedia.com/)
+
+#### Michal Zalewski's Website ####
+> * [Website](http://lcamtuf.coredump.cx/)
+
+#### Woanware ####
+> * [Website](http://www.woanware.co.uk/)
 
 #### R57 Shell | C99 Shell####
 > * [Website](http://www.r57shell.net/)
