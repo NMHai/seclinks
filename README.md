@@ -198,6 +198,7 @@
 
 #### Forums ####
 > * [KernelMode.info](http://www.kernelmode.info/forum/)
+> * [reddit - r/malware/](https://www.reddit.com/r/malware)
 
 ---------------------------------------
 
@@ -206,7 +207,14 @@
 * TBD
 
 #### Resources ####
->
+> TBD
+> ###### Challenges and Exercises ######
+> > * [Crackmes.de](http://crackmes.de/)
+> > * [The Legend Of Random - Challenges](http://thelegendofrandom.com/blog/challenges)
+> > * [johannesbader.ch - Practical Reverse Engineering](http://johannesbader.ch/projects/solutions-to-practical-reverse-engineering/)
+> > * [johannesbader.ch - Crackmes](http://johannesbader.ch/projects/solutions-to-crackmes/)
+> > * [RCE challenges from Tuts4You](https://tuts4you.com/download.php?list.49)
+> > * [The Flare on Challenge](http://www.flare-on.com/)
 
 #### Toolkits ####
 > * [Collaborative RCE Tool Library](http://www.woodmann.com/collaborative/tools/index.php/Category:RCE_Tools)
@@ -219,8 +227,10 @@
 > * [IDA](https://www.hex-rays.com/index.shtml)
 > * [Hopper](http://www.hopperapp.com/)
 > * [ExeTools](http://exetools.com/)
+> * [The Reverse Engineers Toolkit](http://thelegendofrandom.com/blog/archives/175)
 
 #### References ####
+> * [Wikipedia - Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 > * [Collaborative RCE Knowledge Library](http://www.woodmann.com/collaborative/knowledge/index.php/Category:RCE_Knowledge)
 
 #### Forums ####
@@ -228,6 +238,7 @@
 > * [Woodmann](http://www.woodmann.com/)
 > * [看雪学院-pediy.com](http://www.pediy.com/)
 > * [ExeTools](http://forum.exetools.com/)
+> * [reddit - r/ReverseEngineering/](https://www.reddit.com/r/ReverseEngineering)
 
 ---------------------------------------
 
@@ -302,49 +313,58 @@
 > > * [SANS - DFIR Monterey 2015 Network Forensics Challenge Released](http://digital-forensics.sans.org/blog/2014/12/05/dfir-monterey-2015-network-forensics-challenge-released)
 >
 > ###### Miscellaneous ######
-> > * [Forensic corpora(http://www.forensicswiki.org/wiki/Forensic_corpora)
+> > * [Forensic corpora](http://www.forensicswiki.org/wiki/Forensic_corpora)
 > > * [GCK's Cybercrime and Cyberforensics-related URLs](http://www.garykessler.net/library/forensicsurl.html)
 
 #### Toolkits ####
+> * [Wikipedia - List of digital forensics tools](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
 > * [VOLATILITY](http://www.volatilityfoundation.org/)
 > * [Open Source Digital Forensics](http://www.sleuthkit.org/)
 > * [CAINE (Computer Aided INvestigative Environment)](http://www.caine-live.net/)
 > * [DEFT (acronym for Digital Evidence & Forensics Toolkit)](http://www.deftlinux.net/)
 > * [Available tools for forensic investigators](http://www.forensicswiki.org/wiki/Tools)
-> * [List of digital forensics tools](https://en.wikipedia.org/wiki/List_of_digital_forensics_tools)
-> * [GFI - Top 20 Free Digital Forensic Investigation Tools for SysAdmins](http://www.gfi.com/blog/top-20-free-digital-forensic-investigation-tools-for-sysadmins/)
 > * [InfoSec - 21 Popular Computer Forensics Tools](http://resources.infosecinstitute.com/computer-forensics-tools/)
+> * [GFI - Top 20 Free Digital Forensic Investigation Tools for SysAdmins](http://www.gfi.com/blog/top-20-free-digital-forensic-investigation-tools-for-sysadmins/)
 > * [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/)
 > * [CERT - Linux Forensics Tools Repository](https://forensics.cert.org/)
 
 #### References ####
+> * [Wikipedia - Digital forensics](https://en.wikipedia.org/wiki/Digital_forensics)
+> * [SANS DFIR](http://digital-forensics.sans.org/)
 > * [Forensics Wiki](http://www.forensicswiki.org/)
 > * [Forensic Focus](http://www.forensicfocus.com/)
-> * [SANS DFIR](http://digital-forensics.sans.org/)
 > * [Forensic Control](https://forensiccontrol.com/)
 > * [FroensicKB](http://www.forensickb.com/)
 > * [Digital Forensics Tips](http://digitalforensicstips.com/)
 > * [Computer Forensics, Cybercrime and Steganography Resources](http://www.forensix.org/)
-> * [DFRWS](http://www.dfrws.org/index.shtml)
+> * [DFRWS - Digital Forensic Research Workshop](http://www.dfrws.org/index.shtml)
 > * [Open Source Digital Forensics](http://www2.opensourceforensics.org/)
 > * [National Institute of Justice - Forensic Sciences](http://nij.gov/topics/forensics/pages/welcome.aspx)
 > * [Computer Forensics Tool Testing (CFTT)](http://www.cftt.nist.gov/)
+
+#### Forums ####
+> * [reddit - r/computerforensics/](https://www.reddit.com/r/computerforensics)
 
 ---------------------------------------
 
 ## [Mobile Security] ##
 
-* TBD
+#### MobiSec ####
+> TBD
+
+#### Sandoku ####
+> TBD
 
 #### Resources ####
->
+> TBD
 
 #### Toolkits ####
 > * [SecMobi Wiki](http://wiki.secmobi.com/)
 > * [androguard](https://github.com/androguard)
+> * [android-apktool](https://code.google.com/p/android-apktool/)
 
 #### References ####
->
+> * [Wikipedia - Mobile security](https://en.wikipedia.org/wiki/Mobile_security)
 
 #### Forums ####
 > * [看雪移动学院](http://www.kanxue.com/)
@@ -356,24 +376,38 @@
 #### Kali Linux ####
 >
 > #### Introduction ####
-> > * [Website]()
-> > * [Documentation]()
-> > * [Resources](http://kali4hackers.blogspot.com/)
+> > Kali Linux is an open source project that is maintained and funded by
+> > Offensive Security, a provider of world-class information security training
+> > and penetration testing services.
+> > * [Website](https://www.kali.org/)
+> > * [Documentation](http://docs.kali.org/)
+> > * [Tools](http://tools.kali.org/)
+>
+> #### Tips and Tutorials ####
+> > * [Tips](http://kali4hackers.blogspot.com/)
+> > * [Tutorials](http://www.kalitutorials.net/)
+
+#### Metasploit ####
+> TBD
 
 #### Resources ####
->
+> TBD
 
 #### Toolkits ####
->
+> TBD
 
 #### References ####
-> [Hakipedia](http://hakipedia.com/)
-> [Phrack](http://phrack.org/)
-> [Pwnwiki.io](http://pwnwiki.io/)
+> * [Wikipedia - Penetration test](https://en.wikipedia.org/wiki/Penetration_test)
+> * [Hakipedia](http://hakipedia.com/)
+> * [Phrack](http://phrack.org/)
+> * [Pwnwiki.io](http://pwnwiki.io/)
+> * [SANS - Pentest Resources](http://pen-testing.sans.org/resources/downloads)
 
 #### Forums ####
 > * [Hack Forums](http://www.hackforums.net/)
 > * [黑客防线](http://www.hacker.com.cn/)
+> * [reddit - r/netsec/](https://www.reddit.com/r/netsec)
+> * [reddit - r/pwned/](https://www.reddit.com/r/pwned)
 
 ---------------------------------------
 
@@ -413,16 +447,16 @@
 
 #### Toolkits ####
 > * [10 Minute Mail](http://10minutemail.com/)
+> * [Data Fake Generator](http://www.datafakegenerator.com/)
 > * [Fake Name Generator](http://www.fakenamegenerator.com/)
 > * [Fake Identity Generator](http://justdelete.me/fake-identity-generator/)
-> * [Data Fake Generator](http://www.datafakegenerator.com/)
 > * [A Fake Name Generator](https://fakena.me/)
 > * [RandomProfile](http://randomprofile.com/)
+> * [InfoSec - Social Engineering Toolkits](http://resources.infosecinstitute.com/social-engineering-toolkits/)
 
 #### References ####
-> * [Social engineering from Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
+> * [Wikipedia - Social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
 > * [Social Engineering - Security Through Education](http://www.social-engineer.org/)
-> * [InfoSec - Social Engineering Toolkits](http://resources.infosecinstitute.com/social-engineering-toolkits/)
 
 #### Forums ####
 > * [reddit - r/SocialEngineering/](https://www.reddit.com/r/SocialEngineering/)
@@ -474,20 +508,33 @@
 #### Maltego ####
 >
 > ###### Introduction ######
-> > * [Website]()
-> > * [Documentation]()
+> > Maltego is a unique platform developed to deliver a clear threat picture to
+> > the environment that an organization owns and operates. Maltego's unique
+> > advantage is to demonstrate the complexity and severity of single points of
+> > failure as well as trust relationships that exist currently within the scope
+> > of your infrastructure.
+> > * [Website](https://www.paterva.com/web6/products/maltego.php)
+> > * [Documentation](https://www.paterva.com/web6/documentation/index.php)
+>
+> ###### User Guide and Tutorial ######
+> > * [User Guide](http://www.paterva.com/web6/documentation/M3GuideGUI.pdf)
+> > * [Video Tutorial](https://www.youtube.com/watch?v=3zlbUck_BLk&feature=share&list=PLC9DB3E7C258CD215)
 
 #### Resources ####
 > * [IOC Bucket](https://www.iocbucket.com/)
 
 #### Toolkits ####
->
+> * [AbuseHelper](https://bitbucket.org/clarifiednetworks/abusehelper)
+> * [MISP - Malware Information Sharing Platform](http://www.misp-project.org/)
+> * [IntelMQ](https://github.com/certtools/intelmq)
 
 #### References ####
+> * [Wikipedia - Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
+> * [Infosec - OSINT (Open-Source Intelligence)](http://resources.infosecinstitute.com/osint-open-source-intelligence/)
 > * [OpenIOC](http://www.openioc.org/)
 
 #### Forums ####
->
+> TBD
 
 ---------------------------------------
 
@@ -708,8 +755,11 @@
 >
 > ###### Infosec Institute ######
 > > * [Website](http://www.infosecinstitute.com/)
+>
+> ###### Wikipedia - Computer security conference ######
+> > * [Links](https://en.wikipedia.org/wiki/Computer_security_conference)
 
-#### R&D Team/Predecessor ###
+#### R&D Team/Predecessor ####
 >
 > ###### Blackhat.life ######
 > > * [Webiste](http://blackhat.life/)
@@ -745,16 +795,22 @@
 
 ---------------------------------------
 
-## [Open Security Tools/Articles/Resources Yard Archives, etc.] ##
+## [Open Security Tools/Articles/Resources, etc.] ##
 
 #### SecTools.Org: Top Network Security Tools ####
 > * [Website](http://sectools.org/)
 
+#### Probably the Best Free Security List in the World ####
+> * [Website](http://www.techsupportalert.com/content/probably-best-free-security-list-world.htm)
+
 #### NirSoft ####
 > * [Website](http://www.nirsoft.net/)
 
-#### Probably the Best Free Security List in the World ####
-> * [Website](http://www.techsupportalert.com/content/probably-best-free-security-list-world.htm)
+#### Windows Sysinternals ####
+> * [Website](https://technet.microsoft.com/en-us/sysinternals)
+> * [Blog](http://blogs.technet.com/b/sysinternals/)
+> * [Forum](http://forum.sysinternals.com/)
+> * [Tutorials](https://technet.microsoft.com/en-us/sysinternals/bb469930)
 
 #### GEGeek ####
 > * [Website](http://gegeek.com/)
@@ -762,26 +818,17 @@
 #### ToolWar ####
 > * [Website](http://www.toolwar.com/)
 
-#### CYBERPUNK ####
-> * [Webisite](http://n0where.net/)
-
 #### ToolsWatch ####
 > * [Website](http://www.toolswatch.org/)
+
+#### CYBERPUNK ####
+> * [Webisite](http://n0where.net/)
 
 #### KITPLOIT ####
 > * [Website](http://www.kitploit.com/)
 
-#### Windows Sysinternals ####
-> * [Website](https://technet.microsoft.com/en-us/sysinternals)
-> * [Forum](http://forum.sysinternals.com/)
-> * [Blog](http://blogs.technet.com/b/sysinternals/)
-> * [Tutorials](https://technet.microsoft.com/en-us/sysinternals/bb469930)
-
 #### nothunk.org - Utilities ####
 > * [Website](http://www.nothink.org/utilities.php)
-
-#### SOFTPEDIA ####
-> * [Website](http://www.softpedia.com/)
 
 #### Michal Zalewski's Website ####
 > * [Website](http://lcamtuf.coredump.cx/)
@@ -792,3 +839,8 @@
 #### R57 Shell | C99 Shell ####
 > * [Website](http://www.r57shell.net/)
 
+#### SOFTPEDIA ####
+> * [Website](http://www.softpedia.com/)
+
+#### gizmo's freeware ####
+> * [Website](http://www.techsupportalert.com/)
