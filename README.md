@@ -199,9 +199,6 @@
 #### Forums ####
 > * [KernelMode.info](http://www.kernelmode.info/forum/)
 
-#### Vendors ####
-> * [MANDIANT](https://www.mandiant.com/)
-
 ---------------------------------------
 
 ## [Reverse Engineering] ##
@@ -217,6 +214,7 @@
 > * [GNU GDB](https://www.gnu.org/software/gdb/)
 > * [GNU Binary Utilities](https://www.gnu.org/software/binutils/)
 > * [IDA](https://www.hex-rays.com/index.shtml)
+> * [ExeTools](http://exetools.com/)
 
 #### References ####
 > * [Collaborative RCE Knowledge Library](http://www.woodmann.com/collaborative/knowledge/index.php/Category:RCE_Knowledge)
@@ -225,6 +223,7 @@
 > * [Tuts4You](https://tuts4you.com/)
 > * [Woodmann](http://www.woodmann.com/)
 > * [看雪学院-pediy.com](http://www.pediy.com/)
+> * [ExeTools](http://forum.exetools.com/)
 
 ---------------------------------------
 
@@ -362,7 +361,7 @@
 >
 
 #### Forums ####
->
+> * [黑客防线](http://www.hacker.com.cn/)
 
 ---------------------------------------
 
@@ -657,35 +656,84 @@
 
 ---------------------------------------
 
-## [Infosec. R&D Teams/Predecessors] ##
+## [CERT/Institute/R&D Team/Predecessor] ##
 
-#### Blackhat.life ####
-> * [Webiste](http://blackhat.life/)
+#### CERT/CSIRT Organization ####
+>
+> ###### FIRST.org ######
+> > FIRST is the global Forum for Incident Response and Security Teams
+> > * [Webiste](https://www.first.org/)
+>
+> ###### ENISA ######
+> > European Union Agency for Network and Information Security
+> > * [Website](https://www.enisa.europa.eu/)
+>
+> ###### APCERT ######
+> > Asia Pacific Computer Emergency Response Team
+> > * [Website](http://www.apcert.org/)
+>
+> ###### OIC-CERT ######
+> > The Organisation of The Islamic Cooperation – Computer Emergency Response Teams
+> > * [Webiste](http://oic-cert.org/)
+>
+> ###### AfricaCERT ######
+> > The African forum of computer incident response teams
+> > * [Website](http://www.africacert.org/)
 
-#### Irongeek.com ####
-> * [Website](http://www.irongeek.com/)
+#### Institute and Conference ####
+>
+> ###### Blackhat ######
+> > * [Website](https://www.blackhat.com/)
+>
+> ###### DefCon ######
+> > * [Website](https://www.defcon.org/)
+>
+> ###### Virus Bulletin ######
+> > * [Website](https://www.virusbtn.com/)
+>
+> ###### SANS Institute ######
+> > * [Website](https://www.sans.org/)
+>
+> ###### Infosec Institute ######
+> > * [Website](http://www.infosecinstitute.com/)
 
-#### SecDev.org ####
-> * [Website](http://www.secdev.org/)
+#### R&D Teams and Predecessors ###
+>
+> ###### Blackhat.life ######
+> > * [Webiste](http://blackhat.life/)
+>
+> ###### Irongeek.com ######
+> > * [Website](http://www.irongeek.com/)
+>
+> ###### SecDev.org ######
+> > * [Website](http://www.secdev.org/)
+>
+> ###### SOLDIERX.com #####
+> > * [Website](https://www.soldierx.com/)
+>
+> ###### Securosis ######
+> > * [Website](https://securosis.com/)
 
-#### SOLDIERX.com ###
-> * [Website](https://www.soldierx.com/)
-
-#### SecurityXploded ####
-> * [Website](http://securityxploded.com/)
-
-#### OpenSecurityResearch.com ####
-> * [Website](http://opensecurityresearch.com/)
+#### Security Vendors ####
+>
+> ###### Microsoft Security ######
+> > * [Website](http://www.microsoft.com/security/default.aspx)
+>
+> ###### Dell SecureWorks ######
+> > * [Website](http://www.secureworks.com/)
+>
+> ###### Malwarebytes ######
+> > * [Website](https://www.malwarebytes.org/)
+>
+> ###### Virusbtn - Security product vendors ######
+> > * [Links](https://www.virusbtn.com/resources/links/index?ven)
+>
+> ###### Virusbtn - Security news and blogs ######
+> > * [Links](https://www.virusbtn.com/resources/links/index?blog)
 
 ---------------------------------------
 
-## [Open Security Tools/Articles/Resources Yard Archives] ##
-
-#### Blackhat ####
-> * [Website](https://www.blackhat.com/)
-
-#### DefCon ####
-> * [Website](https://www.defcon.org/)
+## [Open Security Tools/Articles/Resources Yard Archives, etc.] ##
 
 #### SecTools.Org: Top Network Security Tools ####
 > * [Website](http://sectools.org/)
@@ -729,5 +777,8 @@
 #### Woanware ####
 > * [Website](http://www.woanware.co.uk/)
 
-#### R57 Shell | C99 Shell####
+#### R57 Shell | C99 Shell ####
 > * [Website](http://www.r57shell.net/)
+
+#### Hack Forums ####
+> * [Website](http://www.hackforums.net/)
