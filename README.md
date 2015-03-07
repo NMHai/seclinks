@@ -107,6 +107,22 @@
 > > Reverse-Engineering Malware Cheat Sheet
 > > * [Cheat Sheet](https://zeltser.com/reverse-malware-cheat-sheet/)
 
+#### Cuckoo Sandbox ####
+>
+> ###### Introduction ######
+> > Cuckoo Sandbox is a malware analysis system.
+> > What does that mean? It simply means that you can throw any suspicious file
+> > at it and in a matter of seconds Cuckoo will provide you back some detailed
+> > results outlining what such file did when executed inside an isolated
+> > environment.
+> > * [Website](http://www.cuckoosandbox.org/)
+> > * [Documentation](http://docs.cuckoosandbox.org/)
+> > * [Repositories](https://github.com/cuckoobox)
+>
+> ###### Manual and  Cummunity ######
+> > * [Manual](https://media.readthedocs.org/pdf/cuckoo/latest/cuckoo.pdf)
+> > * [Community](http://community.cuckoosandbox.org/)
+
 #### Yara - The pattern matching swiss knife for malware researchers ####
 >
 > ###### Introduction ######
@@ -161,10 +177,14 @@
 > > * [AVCaesar](https://avcaesar.malware.lu/)
 >
 > ###### Challenges and Exercises ######
->
+> > * [Honeynet Project Challenges](http://www.honeynet.org/challenges)
+> > * [SANS - Malware Analysis Challenge to Strengthen Your Skills](http://digital-forensics.sans.org/blog/2011/08/10/malware-analysis-challenge-to-strengthen-your-skills)
+> > * [The Practical Malware Analysis labs](http://practicalmalwareanalysis.com/labs/)
+> > * [Malware-Traffic-Analysis.net](http://malware-traffic-analysis.net/)
 
 #### Toolkits ####
 > * [Malware Analyzer](http://www.malware-analyzer.com/)
+> * [Didier Stevens Lab](http://didierstevenslabs.com/)
 
 #### References ####
 > * [Open Malware](http://www.offensivecomputing.net/)
@@ -173,9 +193,14 @@
 > * [Lenny Zeltser](https://zeltser.com/)
 > * [MalwareMustDie](http://malwaremustdie.org/)
 > * [APTnotes](https://github.com/kbandla/APTnotes)
+> * [Didier Stevens Blog](http://blog.didierstevens.com/)
+> * [Malware Analysis Tutorial](http://people.sgu.ac.id/charleslim/mlw-tutorial/)
 
 #### Forums ####
 > * [KernelMode.info](http://www.kernelmode.info/forum/)
+
+#### Vendors ####
+> * [MANDIANT](https://www.mandiant.com/)
 
 ---------------------------------------
 
