@@ -361,14 +361,20 @@
 >
 
 #### Toolkits ####
->
+> * [10 Minute Mail](http://10minutemail.com/)
+> * [Fake Name Generator](http://www.fakenamegenerator.com/)
+> * [Fake Identity Generator](http://justdelete.me/fake-identity-generator/)
+> * [Data Fake Generator](http://www.datafakegenerator.com/)
+> * [A Fake Name Generator](https://fakena.me/)
+> * [RandomProfile](http://randomprofile.com/)
 
 #### References ####
+> * [Social engineering from Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
 > * [Social Engineering - Security Through Education](http://www.social-engineer.org/)
 > * [InfoSec - Social Engineering Toolkits](http://resources.infosecinstitute.com/social-engineering-toolkits/)
 
 #### Forums ####
->
+> * [reddit - r/SocialEngineering/](https://www.reddit.com/r/SocialEngineering/)
 
 ---------------------------------------
 
