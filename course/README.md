@@ -3,8 +3,8 @@
 #### MOOC - Massive Open Online Course ####
 >
 > ###### The ENISA CERT Training material ######
-> > The material contains essential material for success in the CERT community and
-> > in the field of information security.
+> > The material contains essential material for success in the CERT community 
+> > and in the field of information security.
 > > * [Website](https://www.enisa.europa.eu/activities/cert/training)
 >
 > ###### OST - OPEN SECURITY TRAINING .INFO ######
@@ -19,15 +19,15 @@
 > > * [Website](http://www.cybrary.it/)
 >
 > ###### SANS Cyber Aces ######
-> > SANS Cyber Aces is SANS’ philanthropic initiative to help individuals discover
-> > and develop skills and careers in cybersecurity.
+> > SANS Cyber Aces is SANS’ philanthropic initiative to help individuals 
+> > discover and develop skills and careers in cybersecurity.
 > > * [Website](http://cyberaces.org/)
 >
 > ###### Security Trainings - Reversing & Malware Analysis Training ######
-> > This is SecurityXploded first free Training session focused on teaching basics
-> > of Reverse engineering and Malware analysis. It starts with guide on lab
-> > setup, learning Windows internals/PE formats/assembly and then moves on to
-> > practical malware analysis sessions.
+> > This is SecurityXploded first free Training session focused on teaching 
+> > basics of Reverse engineering and Malware analysis. It starts with guide 
+> > on lab setup, learning Windows internals/PE formats/assembly and then 
+> > moves on to practical malware analysis sessions.
 > > * [Website](http://securitytrainings.net/reversing-malware-analysis-training/)
 >
 > ###### Security Trainings - Advanced Malware Analysis Training ######
@@ -39,8 +39,8 @@
 > ###### ISIS Lab's Hack Night ######
 > > Hack Night is designed to be a sobering introduction to offensive security.
 > > A lot of complex technical content is covered very quickly and students are
-> > expected to have a good understanding of all topics and a mastery of at least
-> > one topic by the end of the course.
+> > expected to have a good understanding of all topics and a mastery of at 
+> > least one topic by the end of the course.
 > > * [Website](https://isislab.github.io/Hack-Night/)
 >
 > ###### UIC R.E. Academy ######
