@@ -230,6 +230,7 @@
 > * [ImmunityDbg](https://www.immunityinc.com/products/debugger/)
 > * [IDA](https://www.hex-rays.com/index.shtml)
 > * [Hopper](http://www.hopperapp.com/)
+> * [Radare](http://www.radare.org/)
 > * [ExeTools](http://exetools.com/)
 > * [The Reverse Engineers Toolkit](http://thelegendofrandom.com/blog/archives/175)
 
@@ -433,12 +434,14 @@
 >
 > ###### Challenges and Exercises ######
 > > * [List of vulnerable test websites](http://vulnweb.com/)
+> > * [PentesterLab](https://www.pentesterlab.com/)
 
 #### Toolkits ####
 > * [Guided Technical Testing Assistant](http://download.security-check.org/)
 > * [Acunetix Web Vulnerability Scanner](http://www.acunetix.com/)
 > * [Opensourcetesting.org](http://www.opensourcetesting.org/)
 > * [Pentest-Tools.com](https://pentest-tools.com/)
+> * [OWASP - Penetration Testing Tools](https://www.owasp.org/index.php/Category:Penetration_Testing_Tools)
 
 #### References ####
 > * [Wikipedia - Penetration test](https://en.wikipedia.org/wiki/Penetration_test)
@@ -446,6 +449,7 @@
 > * [OWASP](https://www.owasp.org/)
 > * [Hakipedia](http://hakipedia.com/)
 > * [Phrack](http://phrack.org/)
+> * [zone-h](http://www.zone-h.org/)
 > * [Pwnwiki.io](http://pwnwiki.io/)
 > * [pentestmonkey](http://pentestmonkey.net/)
 > * [The SQL Injection Knowledge Base](http://www.websec.ca/kb/sql_injection)
