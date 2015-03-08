@@ -183,16 +183,20 @@
 > > * [Malware-Traffic-Analysis.net](http://malware-traffic-analysis.net/)
 
 #### Toolkits ####
+> * [Various Honeypot](http://carnivore.it/)
 > * [Malware Analyzer](http://www.malware-analyzer.com/)
 > * [Didier Stevens Lab](http://didierstevenslabs.com/)
 
 #### References ####
-> * [Open Malware](http://www.offensivecomputing.net/)
+> * [Wikipedia - Malware Analysis](https://en.wikipedia.org/wiki/Malware_Analysis)
+> * [Wikipedia - Honeypot](https://en.wikipedia.org/wiki/Honeypot_(computing))
+> * [Honeynet Project](http://www.honeynet.org/)
 > * [Shadow Server](https://www.shadowserver.org/)
+> * [Open Malware](http://www.offensivecomputing.net/)
 > * [Team Cymru](https://www.team-cymru.org/)
-> * [Lenny Zeltser](https://zeltser.com/)
-> * [MalwareMustDie](http://malwaremustdie.org/)
+> * [Lenny Zeltser's Website](https://zeltser.com/)
 > * [APTnotes](https://github.com/kbandla/APTnotes)
+> * [MalwareMustDie](http://malwaremustdie.org/)
 > * [Didier Stevens Blog](http://blog.didierstevens.com/)
 > * [Malware Analysis Tutorial](http://people.sgu.ac.id/charleslim/mlw-tutorial/)
 
@@ -207,7 +211,7 @@
 * TBD
 
 #### Resources ####
-> TBD
+>
 > ###### Challenges and Exercises ######
 > > * [Crackmes.de](http://crackmes.de/)
 > > * [The Legend Of Random - Challenges](http://thelegendofrandom.com/blog/challenges)
@@ -350,10 +354,24 @@
 ## [Mobile Security] ##
 
 #### MobiSec ####
-> TBD
+>
+> ###### Introduction ######
+> > The MobiSec Live Environment Mobile Testing open source project is a live
+> > environment for testing mobile environments, including devices, applications
+> > , and supporting infrastructure.
+> > * [Website](http://mobisec.professionallyevil.com/)
+> > * [Documentation](http://sourceforge.net/p/mobisec/wiki/Home/)
 
-#### Sandoku ####
-> TBD
+#### Sandoku Linux ####
+>
+> ###### Introduction ######
+> > Santoku is dedicated to mobile forensics, analysis, and security, and
+> > packaged in an easy to use, Open Source platform.
+> > * [Website](https://santoku-linux.com/)
+> > * [Documentation](https://santoku-linux.com/howtos)
+>
+> ###### Community ######
+> > * [Forum](https://santoku-linux.com/forums)
 
 #### Resources ####
 > TBD
@@ -362,9 +380,11 @@
 > * [SecMobi Wiki](http://wiki.secmobi.com/)
 > * [androguard](https://github.com/androguard)
 > * [android-apktool](https://code.google.com/p/android-apktool/)
+> * [AppUse](https://appsec-labs.com/appuse/)
 
 #### References ####
 > * [Wikipedia - Mobile security](https://en.wikipedia.org/wiki/Mobile_security)
+> * [AppSec Lab](https://appsec-labs.com/)
 
 #### Forums ####
 > * [看雪移动学院](http://www.kanxue.com/)
@@ -375,7 +395,7 @@
 
 #### Kali Linux ####
 >
-> #### Introduction ####
+> ###### Introduction ######
 > > Kali Linux is an open source project that is maintained and funded by
 > > Offensive Security, a provider of world-class information security training
 > > and penetration testing services.
@@ -383,25 +403,53 @@
 > > * [Documentation](http://docs.kali.org/)
 > > * [Tools](http://tools.kali.org/)
 >
-> #### Tips and Tutorials ####
+> ###### Tips and Tutorials ######
 > > * [Tips](http://kali4hackers.blogspot.com/)
 > > * [Tutorials](http://www.kalitutorials.net/)
 
 #### Metasploit ####
-> TBD
+>
+> ###### Introduction ######
+> > Metaspoit Framework is a open source penetration tool used for developing
+> > and executing exploit code against a remote target machine it.
+> > * [Website](http://www.metasploit.com/)
+> > * [Documentation](http://help.metasploit.com/)
+>
+> ###### Usage and Tips ######
+> > * [Metasploit Unleashed](http://www.offensive-security.com/metasploit-unleashed/Main_Page)
+
+#### Nmap ####
+>
+> ###### Introduction ######
+> > Nmap ("Network Mapper") is a free and open source (license) utility for
+> > network discovery and security auditing.
+> > * [Website](http://nmap.org/)
+> > * [Documentation](http://nmap.org/docs.html)
+>
+> ###### Reference Guide ######
+> > * [Reference Guide](http://nmap.org/book/man.html)
 
 #### Resources ####
-> TBD
+>
+> ###### Challenges and Exercises ######
+> > * [List of vulnerable test websites](http://vulnweb.com/)
 
 #### Toolkits ####
-> TBD
+> * [Guided Technical Testing Assistant](http://download.security-check.org/)
+> * [Acunetix Web Vulnerability Scanner](http://www.acunetix.com/)
+> * [Opensourcetesting.org](http://www.opensourcetesting.org/)
+> * [Pentest-Tools.com](https://pentest-tools.com/)
 
 #### References ####
 > * [Wikipedia - Penetration test](https://en.wikipedia.org/wiki/Penetration_test)
+> * [SANS - Pentest Resources](http://pen-testing.sans.org/resources/downloads)
+> * [OWASP](https://www.owasp.org/)
 > * [Hakipedia](http://hakipedia.com/)
 > * [Phrack](http://phrack.org/)
 > * [Pwnwiki.io](http://pwnwiki.io/)
-> * [SANS - Pentest Resources](http://pen-testing.sans.org/resources/downloads)
+> * [pentestmonkey](http://pentestmonkey.net/)
+> * [The SQL Injection Knowledge Base](http://www.websec.ca/kb/sql_injection)
+> * [The penetration testing execution standard](http://www.pentest-standard.org/)
 
 #### Forums ####
 > * [Hack Forums](http://www.hackforums.net/)
@@ -445,13 +493,17 @@
 > > * [Tutorial - 01](http://resources.infosecinstitute.com/beef-part-1/)
 > > * [Tutorial - 02](http://resources.infosecinstitute.com/beef-part-2/)
 
+#### Resources ####
+>
+> ###### Fake Identity ######
+> > * [10 Minute Mail](http://10minutemail.com/)
+> > * [Data Fake Generator](http://www.datafakegenerator.com/)
+> > * [Fake Name Generator](http://www.fakenamegenerator.com/)
+> > * [Fake Identity Generator](http://justdelete.me/fake-identity-generator/)
+> > * [A Fake Name Generator](https://fakena.me/)
+> > * [RandomProfile](http://randomprofile.com/)
+
 #### Toolkits ####
-> * [10 Minute Mail](http://10minutemail.com/)
-> * [Data Fake Generator](http://www.datafakegenerator.com/)
-> * [Fake Name Generator](http://www.fakenamegenerator.com/)
-> * [Fake Identity Generator](http://justdelete.me/fake-identity-generator/)
-> * [A Fake Name Generator](https://fakena.me/)
-> * [RandomProfile](http://randomprofile.com/)
 > * [InfoSec - Social Engineering Toolkits](http://resources.infosecinstitute.com/social-engineering-toolkits/)
 
 #### References ####
@@ -527,11 +579,16 @@
 > * [AbuseHelper](https://bitbucket.org/clarifiednetworks/abusehelper)
 > * [MISP - Malware Information Sharing Platform](http://www.misp-project.org/)
 > * [IntelMQ](https://github.com/certtools/intelmq)
+> * [Snort](https://www.snort.org/)
+> * [Suricata](http://suricata-ids.org/)
+> * [Aanval](https://www.aanval.com/)
+> * [AutoShun](http://autoshun.org/)
 
 #### References ####
 > * [Wikipedia - Open-source intelligence](https://en.wikipedia.org/wiki/Open-source_intelligence)
 > * [Infosec - OSINT (Open-Source Intelligence)](http://resources.infosecinstitute.com/osint-open-source-intelligence/)
 > * [OpenIOC](http://www.openioc.org/)
+> * [Emerging Threats](http://www.emergingthreats.net/)
 
 #### Forums ####
 > TBD
@@ -795,7 +852,10 @@
 
 ---------------------------------------
 
-## [Open Security Tools/Articles/Resources, etc.] ##
+## [Open Security Articles/Tools/Resources, etc.] ##
+
+#### SecLists.Org Security Mailing List Archive ####
+> * [Website](http://seclists.org/)
 
 #### SecTools.Org: Top Network Security Tools ####
 > * [Website](http://sectools.org/)
