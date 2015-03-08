@@ -2,6 +2,7 @@
 
 Cyber threat is one of the most serious problem right now. Here are my
 collection of security resources and forums. Stay hungry. Saty foolish.
+
      _____  _              _        _____  _                 _____     _____
     |   __||_| _____  ___ | | ___  |  _  || | ___  ___  ___ |   __|   |  _  |
     |__   || ||     || . || || -_| |   __|| || .'||   ||___||__   | _ |   __|_
