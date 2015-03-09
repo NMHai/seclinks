@@ -162,13 +162,27 @@
 > ###### Basic Steps in Forensic Analysis of Unix Systems ######
 > > * [Website](https://staff.washington.edu/dittrich/misc/forensics/)
 
+#### Webinar/Webcast ####
+>
+> * [SecurityTube](http://www.securitytube.net/)
+> * [SANS Webcasts](https://www.sans.org/webcasts/)
+> * [Blackhat Webcasts](http://www.blackhat.com/html/webcast/webcast-home.html)
+> * [Paul's Security Weekly](http://www.pauldotcom.com/) 
+> * [Tradecraft](http://www.advancedpentest.com/training)
+> * [BrightTALK](https://www.brighttalk.com/)
+> * [SecureWorks](http://www.secureworks.com/resources/webcasts/)
+> * [Infosecurity Webinars](http://www.infosecurity-magazine.com/webinars/)
+> * [Tenable Webinars](http://www.tenable.com/webinars)
+> * [Forensic Focus](http://www.forensicfocus.com/webinars)
+> * [Rotimi Akinyele – The Infosec Shinobi](http://rotimiakinyele.com/)
+> * [Primal Security Podcast](http://www.primalsecurity.net/)
+
 #### Miscellaneous ####
 >
 > Check here to learn more. Stay hungry. Stay foolish.
 >
-> * [SecurityTube](http://www.securitytube.net/)
-> * [OpenSecurityTraining](http://opensecuritytraining.info/External_Resources.html)
-> * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
-> * [Null Byte - WonderHowTo](http://null-byte.wonderhowto.com/how-to/)
 > * [Tuts4You](https://tuts4you.com/download.php?list.19)
 > * [samsclass.info](https://samsclass.info/)
+> * [OpenSecurityTraining](http://opensecuritytraining.info/External_Resources.html)
+> * [Null Byte - WonderHowTo](http://null-byte.wonderhowto.com/how-to/)
+> * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
