@@ -61,6 +61,7 @@
 > ###### Challenges and Exercises ######
 > > * [Hacking Case](http://www.cfreds.nist.gov/Hacking_Case.html)
 > > * [Network Forensics Puzzle Contest](http://forensicscontest.com/)
+> > * [Forensic Puzzles](http://forensicscontest.com/puzzles)
 > > * [Sample Practical Exercise Problem](http://www.isfce.com/sample-pe.htm)
 > > * [Honeynet Project Challenges](http://www.honeynet.org/challenges)
 > > * [Digital Forensics Security Treasure Hunt](http://digitalforensics.securitytreasurehunt.com/)
