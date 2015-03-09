@@ -71,7 +71,7 @@
 > > * [Website](https://www.malwarebytes.org/)
 >
 > ###### Damballa ######
-> > * [Damballa](https://www.damballa.com/)
+> > * [Website](https://www.damballa.com/)
 > > 
 > ###### Virusbtn - Security product vendors ######
 > > * [Links](https://www.virusbtn.com/resources/links/index?ven)
