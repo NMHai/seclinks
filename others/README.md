@@ -9,6 +9,9 @@
 #### Probably the Best Free Security List in the World ####
 > * [Website](http://www.techsupportalert.com/content/probably-best-free-security-list-world.htm)
 
+#### SecurityWizardry.com ####
+> * [Website](http://www.securitywizardry.com/)
+
 #### NirSoft ####
 > * [Website](http://www.nirsoft.net/)
 
