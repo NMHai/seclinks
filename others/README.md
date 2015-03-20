@@ -1,5 +1,8 @@
 ## [Open Security Articles/Tools/Resources, etc.] ##
 
+#### SANS.org Blogs####
+> *[Website](https://www.sans.org/security-resources/blogs)
+
 #### SecLists.Org Security Mailing List Archive ####
 > * [Website](http://seclists.org/)
 
