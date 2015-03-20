@@ -44,6 +44,7 @@
 > * [Wikipedia - Application security](https://en.wikipedia.org/wiki/Application_security)
 > * [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 > * [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/)
+> * [SANS - Software Security](http://software-security.sans.org/)
 > * [Microsoft MSDN](https://msdn.microsoft.com/)
 > * [MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 > * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/index.html)
