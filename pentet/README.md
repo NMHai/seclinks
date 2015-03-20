@@ -51,7 +51,8 @@
 
 #### References ####
 > * [Wikipedia - Penetration test](https://en.wikipedia.org/wiki/Penetration_test)
-> * [SANS - Pentest Resources](http://pen-testing.sans.org/resources/downloads)
+> * [SANS - Penetration Testing](http://pen-testing.sans.org/)
+> * [SANS - Cyber Defense](http://cyber-defense.sans.org/)
 > * [OWASP](https://www.owasp.org/)
 > * [Hakipedia](http://hakipedia.com/)
 > * [Phrack](http://phrack.org/)
