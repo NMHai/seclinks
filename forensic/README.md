@@ -87,7 +87,8 @@
 
 #### References ####
 > * [Wikipedia - Digital forensics](https://en.wikipedia.org/wiki/Digital_forensics)
-> * [SANS DFIR](http://digital-forensics.sans.org/)
+> * [SANS - Digital Forensics and Incident Response](http://digital-forensics.sans.org/)
+> * [SANS - Industrial Control Systems Security](http://ics.sans.org/)
 > * [Forensics Wiki](http://www.forensicswiki.org/)
 > * [Forensic Focus](http://www.forensicfocus.com/)
 > * [Forensic Control](https://forensiccontrol.com/)
