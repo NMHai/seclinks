@@ -2,11 +2,19 @@
 
 #### Microsoft Security Development Lifecycle ####
 > 
-> > ###### Introduction ######
+> ###### Introduction ######
 > > The Security Development Lifecycle (SDL) is a software development process
 > > that helps developers build more secure software and address security 
 > > compliance requirements while reducing development cost. 
 > > * [Website](http://www.microsoft.com/security/sdl/)
+
+#### OWASP Secure Application Design Project ####
+>
+> ###### Introduction ######
+> > This project focuses on highlighting some important secure design 
+> > principles that developers and architects must adapt to build a secure 
+> > application design. 
+> > * [Website](https://www.owasp.org/index.php/OWASP_Secure_Application_Design_Project)
 
 #### Resources ####
 > 
@@ -34,6 +42,8 @@
 
 #### References ####
 > * [Wikipedia - Application security](https://en.wikipedia.org/wiki/Application_security)
+> * [OWASP Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+> * [CWE/SANS TOP 25 Most Dangerous Software Errors](https://www.sans.org/top25-software-errors/)
 > * [Microsoft MSDN](https://msdn.microsoft.com/)
 > * [MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 > * [演算法筆記](http://www.csie.ntnu.edu.tw/~u91029/index.html)
