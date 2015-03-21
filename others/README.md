@@ -1,7 +1,13 @@
 ## [Open Security Articles/Tools/Resources, etc.] ##
 
 #### SANS.org Blogs####
-> *[Website](https://www.sans.org/security-resources/blogs)
+> * [Website](https://www.sans.org/security-resources/blogs)
+
+#### The Ethical Hacker Network ####
+> * [Website](https://www.ethicalhacker.net/)
+
+#### 2600 Magazine ####
+> * [Website](http://www.2600.com/)
 
 #### SecLists.Org Security Mailing List Archive ####
 > * [Website](http://seclists.org/)
