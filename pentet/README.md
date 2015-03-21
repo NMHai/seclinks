@@ -41,6 +41,7 @@
 > ###### Challenges and Exercises ######
 > > * [List of vulnerable test websites](http://vulnweb.com/)
 > > * [PentesterLab](https://www.pentesterlab.com/)
+> > * [Hack This Site](https://www.hackthissite.org/)
 
 #### Toolkits ####
 > * [Guided Technical Testing Assistant](http://download.security-check.org/)
@@ -65,5 +66,6 @@
 #### Forums ####
 > * [Hack Forums](http://www.hackforums.net/)
 > * [黑客防线](http://www.hacker.com.cn/)
+> * [Hell Bound Hackers](https://www.hellboundhackers.org/)
 > * [reddit - r/netsec/](https://www.reddit.com/r/netsec)
 > * [reddit - r/pwned/](https://www.reddit.com/r/pwned)
