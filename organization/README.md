@@ -59,7 +59,7 @@
 > ###### Securosis ######
 > > * [Website](https://securosis.com/)
 > 
-> ###### WhiteHat Security######
+> ###### WhiteHat Security ######
 > > * [Website](https://blog.whitehatsec.com/)
 
 #### Security Vendors ####
