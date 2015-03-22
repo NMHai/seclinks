@@ -9,6 +9,9 @@
 #### 2600 Magazine ####
 > * [Website](http://www.2600.com/)
 
+#### Hacking Tutorial, Tips and Trick ####
+> * [Website](http://www.hacking-tutorial.com/)
+
 #### SecLists.Org Security Mailing List Archive ####
 > * [Website](http://seclists.org/)
 
