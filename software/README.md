@@ -37,6 +37,7 @@
 > > * [topcoder](http://www.topcoder.com/)
 > > * [Code Hunt](https://www.codehunt.com/)
 > > * [Code Forces](http://codeforces.com/)
+> > * [CheckIO](http://www.checkio.org/)
 
 #### Toolkits ####
 
