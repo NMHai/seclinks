@@ -186,3 +186,4 @@
 > * [OpenSecurityTraining](http://opensecuritytraining.info/External_Resources.html)
 > * [Null Byte - WonderHowTo](http://null-byte.wonderhowto.com/how-to/)
 > * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
+> * [Hacker's Hut](https://www.win.tue.nl/~setalle/hh.html)

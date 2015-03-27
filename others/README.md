@@ -12,6 +12,9 @@
 #### Hacking Tutorial, Tips and Trick ####
 > * [Website](http://www.hacking-tutorial.com/)
 
+#### Hackers Hut ####
+> * [Website](https://www.win.tue.nl/~aeb/linux/hh/hh.html)
+
 #### SecLists.Org Security Mailing List Archive ####
 > * [Website](http://seclists.org/)
 
