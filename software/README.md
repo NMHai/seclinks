@@ -38,8 +38,10 @@
 > > * [Code Hunt](https://www.codehunt.com/)
 > > * [Code Forces](http://codeforces.com/)
 > > * [CheckIO](http://www.checkio.org/)
+> > * [Exercism](http://exercism.io/)
 
 #### Toolkits ####
+> * [searchcode](https://searchcode.com/)
 
 #### References ####
 > * [Wikipedia - Application security](https://en.wikipedia.org/wiki/Application_security)
