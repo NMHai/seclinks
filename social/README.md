@@ -48,6 +48,7 @@
 #### References ####
 > * [Wikipedia - Social engineering](https://en.wikipedia.org/wiki/Social_engineering_(security))
 > * [Social Engineering - Security Through Education](http://www.social-engineer.org/)
+> * [SANS - Securing The Human](http://www.securingthehuman.org/)
 
 #### Forums ####
 > * [reddit - r/SocialEngineering/](https://www.reddit.com/r/SocialEngineering/)
