@@ -5,11 +5,11 @@
 > ###### Web Hacking / Penetration Testing ######
 > > * [Try 2 Hack](http://www.try2hack.nl/)
 > > * [Hacker Test](http://www.hackertest.net/)
-> > * [bWAPP - an extremely buggy web app](http://www.itsecgames.com/)
-> > * [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
-> > * [OWASP Hackademic Challenges Project](https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project)
 > > * [ODS3 Virtual Machine Challenge](http://sourceforge.net/projects/ods3virtualmachinechallenge/)
 > > * [Damn Vulnerable Web Application](http://www.dvwa.co.uk/)
+> > * [bWAPP - an extremely buggy web app](http://www.itsecgames.com/)
+> > * [OWASP Hackademic Challenges Project](https://www.owasp.org/index.php/OWASP_Hackademic_Challenges_Project)
+> > * [OWASP Broken Web Applications Project](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project)
 > 
 > ###### Exploits / Vulneribilities ######
 > > * [VulnHub](http://www.vulnhub.com/)
@@ -28,17 +28,19 @@
 > > * [Regex Cross­word](http://regexcrossword.com/)
 > 
 > ###### Miscellaneous ######
-> > * [Practice CTF List / Permanant CTF List](http://captf.com/practice-ctf/)
 > > * [Over The Wire](http://overthewire.org/)
 > > * [Hack This Site](http://www.hackthissite.org/)
-> > * [CanYouHack.It](http://canyouhack.it/)
-> > * [Hack This!](http://www.hackthis.co.uk/)
 > > * [Root Me](http://www.root-me.org/?lang=en)
 > > * [We Chall](http://www.wechall.net/)
+> > * [Hack This!](http://www.hackthis.co.uk/)
 > > * [Hacking-Lab](http://www.hacking-lab.com/)
-> > * [Honeynet Project Challenges](https://www.honeynet.org/challenges)
+> > * [CanYouHack.It](http://canyouhack.it/)
 > > * [Dare Your Mind](http://www.dareyourmind.net/)
 > > * [THC Hacking Challenges](http://www.hackchallenge.net/)
+> > * [Honeynet Project Challenges](https://www.honeynet.org/challenges)
+>
+> ###### Capture The Flag ######
+> > * [Practice CTF List / Permanant CTF List](http://captf.com/practice-ctf/)
 
 #### Toolkits ####
 > * [Pwntools](http://pwntools.com/)
