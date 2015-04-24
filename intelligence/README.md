@@ -72,6 +72,8 @@
 > * [Infosec - OSINT (Open-Source Intelligence)](http://resources.infosecinstitute.com/osint-open-source-intelligence/)
 > * [OpenIOC](http://www.openioc.org/)
 > * [Emerging Threats](http://www.emergingthreats.net/)
+> * [IBM X-Force](https://exchange.xforce.ibmcloud.com/)
+> * [Open Threat Exchange (OTX) | AlienVault](https://www.alienvault.com/open-threat-exchange)
 
 #### Forums ####
 > TBD
