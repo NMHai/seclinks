@@ -29,6 +29,7 @@
 #### References ####
 > * [Wikipedia - Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 > * [Collaborative RCE Knowledge Library](http://www.woodmann.com/collaborative/knowledge/index.php/Category:RCE_Knowledge)
+> * [The IDA PRO Book](http://www.idabook.com/index.html)
 
 #### Forums ####
 > * [Tuts4You](https://tuts4you.com/)
