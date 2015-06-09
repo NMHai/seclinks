@@ -164,6 +164,10 @@
 > ###### Malware Analysis Tutorials: a Reverse Engineering Approach ######
 > > * [Website](http://fumalwareanalysis.blogspot.tw/p/malware-analysis-tutorials-reverse.html)
 >
+> ###### Lenas Reversing for Newbies ######
+> > Nice collection of tutorials aimed particularly for newbie reverse enginners...
+> > * [Website](https://tuts4you.com/download.php?view.2874)
+>
 > ###### HakTip ######
 > > * [Website](http://hak5.org/category/episodes/haktip)
 >
