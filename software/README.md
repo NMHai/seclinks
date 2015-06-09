@@ -32,13 +32,14 @@
 > > * [coderbyte](http://coderbyte.com/)
 > > * [Google Code Jam](https://code.google.com/codejam/)
 > > * [LeetCode Online Judge](https://leetcode.com/)
-> > * [UVa Online Judge](http://uva.onlinejudge.org/)
+> > * [UVA Online Judge](http://uva.onlinejudge.org/)
 > > * [UVA toolkit](http://uvatoolkit.com/) 
 > > * [topcoder](http://www.topcoder.com/)
 > > * [Code Hunt](https://www.codehunt.com/)
 > > * [Code Forces](http://codeforces.com/)
 > > * [CheckIO](http://www.checkio.org/)
 > > * [Exercism](http://exercism.io/)
+> > * [Sphere online judge](http://www.spoj.com/)
 
 #### Toolkits ####
 > * [searchcode](https://searchcode.com/)
