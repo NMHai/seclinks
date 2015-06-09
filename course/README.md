@@ -1,7 +1,7 @@
 ## [Open Security Courses/Trainings/Tutorials/Materials] ##
 
 #### MOOC - Massive Open Online Course ####
->
+> 
 > ###### The ENISA CERT Training material ######
 > > The material contains essential material for success in the CERT community 
 > > and in the field of information security.
@@ -43,6 +43,18 @@
 > > least one topic by the end of the course.
 > > * [Website](https://isislab.github.io/Hack-Night/)
 >
+> ###### Coursera - Cybersecurity
+> > A Sequence of Courses: Learn to Build -- and Break -- a Secure System and 
+> > Apply Your Skills in a Capstone Project
+> > * [Website](https://www.coursera.org/specialization/cybersecurity/7)
+> 
+
+> ###### Coursera - Malicious Software and its Underground Economy: Two Sides to Every Story
+> > Learn about traditional and mobile malware, the security threats they 
+> > represent, state-of-the-art analysis and detection techniques, and the 
+> > underground ecosystem that drives such a profitable but illegal business.
+> > * [Website](https://www.coursera.org/course/malsoftware)
+> 
 > ###### UIC R.E. Academy ######
 > > UIC R.E. Academy started back in 1998 as a project aimed to teach reverse
 > > engineering, for free, to anybody willing to learn. Today we are still here,
