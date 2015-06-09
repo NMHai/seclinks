@@ -35,20 +35,12 @@
 > > advanced aspects of malware analysis including Rootkits, Botnets, Sandbox
 > > Analysis, Mobile Malwares etc.
 > > * [Website](http://securitytrainings.net/advanced-malware-analysis-training/)
->
-> ###### ISIS Lab's Hack Night ######
-> > Hack Night is designed to be a sobering introduction to offensive security.
-> > A lot of complex technical content is covered very quickly and students are
-> > expected to have a good understanding of all topics and a mastery of at 
-> > least one topic by the end of the course.
-> > * [Website](https://isislab.github.io/Hack-Night/)
->
+> 
 > ###### Coursera - Cybersecurity
 > > A Sequence of Courses: Learn to Build -- and Break -- a Secure System and 
 > > Apply Your Skills in a Capstone Project
 > > * [Website](https://www.coursera.org/specialization/cybersecurity/7)
 > 
-
 > ###### Coursera - Malicious Software and its Underground Economy: Two Sides to Every Story
 > > Learn about traditional and mobile malware, the security threats they 
 > > represent, state-of-the-art analysis and detection techniques, and the 
@@ -61,6 +53,13 @@
 > > constantly analyzing malwares, exploits, vulnerabilities and trying to publish
 > > as often as possible the results of our research.
 > > * [Website](https://quequero.org/)
+>
+> ###### ISIS Lab's Hack Night ######
+> > Hack Night is designed to be a sobering introduction to offensive security.
+> > A lot of complex technical content is covered very quickly and students are
+> > expected to have a good understanding of all topics and a mastery of at 
+> > least one topic by the end of the course.
+> > * [Website](https://isislab.github.io/Hack-Night/)
 >
 > ###### Binary Auditing ######
 > > Free IDA Pro Binary Auditing Training Material for University Lectures.
