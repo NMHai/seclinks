@@ -66,6 +66,13 @@
 > > Learn the fundamentals of Binary Auditing. Know how HLL mapping works, get
 > > more inner file understanding than ever.
 > > * [Website](http://www.binary-auditing.com/)
+> 
+> ###### Exploit Development Community ######
+> > This is the preface to a course about Modern Windows Exploit Development. 
+> > I chose Windows because I’m very familiar with it and also because it’s 
+> > very popular. In particular, I chose Windows 7 SP1 64-bit. Enough with 
+> > Windows XP: it’s time to move on!
+> > * [Website](https://expdev-kiuhnm.rhcloud.com/)
 
 #### University/College Courses ####
 >
