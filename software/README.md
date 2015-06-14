@@ -40,6 +40,7 @@
 > > * [CheckIO](http://www.checkio.org/)
 > > * [Exercism](http://exercism.io/)
 > > * [Sphere online judge](http://www.spoj.com/)
+> > * [Hacker Rank](https://www.hackerrank.com/)
 
 #### Toolkits ####
 > * [searchcode](https://searchcode.com/)
