@@ -68,6 +68,7 @@
 > > * [DFRWS 2015 Forensics Challenge](http://www.dfrws.org/2015/challenge/)
 > > * [SANS - An Advanced Persistent Threat based challenge](http://digital-forensics.sans.org/community/challenges)
 > > * [SANS - DFIR Monterey 2015 Network Forensics Challenge Released](http://digital-forensics.sans.org/blog/2014/12/05/dfir-monterey-2015-network-forensics-challenge-released)
+> > * [FORENSIC CHALLENGES](http://www.amanhardikar.com/mindmaps/ForensicChallenges.html)
 >
 > ###### Miscellaneous ######
 > > * [Forensic corpora](http://www.forensicswiki.org/wiki/Forensic_corpora)
