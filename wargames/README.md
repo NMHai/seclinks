@@ -38,6 +38,7 @@
 > > * [Dare Your Mind](http://www.dareyourmind.net/)
 > > * [THC Hacking Challenges](http://www.hackchallenge.net/)
 > > * [Honeynet Project Challenges](https://www.honeynet.org/challenges)
+> > * [Penetration Testing Practice Lab - Vulnerable Apps / System](http://www.amanhardikar.com/mindmaps/PracticeUrls.html)
 >
 > ###### Capture The Flag ######
 > > * [Practice CTF List / Permanant CTF List](http://captf.com/practice-ctf/)
