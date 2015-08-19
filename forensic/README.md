@@ -86,7 +86,16 @@
 > * [GFI - Top 20 Free Digital Forensic Investigation Tools for SysAdmins](http://www.gfi.com/blog/top-20-free-digital-forensic-investigation-tools-for-sysadmins/)
 > * [Free computer forensic tools](https://forensiccontrol.com/resources/free-software/)
 > * [CERT - Linux Forensics Tools Repository](https://forensics.cert.org/)
+> * [Xplico - Open Source Network Forensic Analysis Tool](http://www.xplico.org/)
+> * [Network Security Toolkit](http://www.networksecuritytoolkit.org/)
+> * [Security Onion](http://blog.securityonion.net/)
 > * [Networktotal](https://www.networktotal.com/)
+> * [Moloch](http://molo.ch/)
+> * [SiLK](https://tools.netsa.cert.org/silk/)
+> * [ARGUS](http://www.qosient.com/argus/index.shtml)
+> * [The Bro Network Security Monitor](https://www.bro.org/)
+> * [Wireshark](https://www.wireshark.org/)
+> * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner)
 
 #### References ####
 > * [Wikipedia - Digital forensics](https://en.wikipedia.org/wiki/Digital_forensics)
